@@ -1,4 +1,4 @@
-## Stephanie Nascimento
+## Olá! Eu sou a Stephanie Nascimento 😊
 
 Apaixonada por tecnologia, esporte, animais, viagens e Harry Potter ⚡
 
