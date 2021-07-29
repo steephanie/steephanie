@@ -1,6 +1,6 @@
 ## Stephanie Nascimento
 
-Apaixonada por tecnologia, esporte, animais, viagens e Harry Potter ⚡.
+Apaixonada por tecnologia, esporte, animais, viagens e Harry Potter ⚡
 
 Aqui no meu perfil do GitHub você pode ver todos os meus projetos.
 
