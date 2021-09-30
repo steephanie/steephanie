@@ -8,6 +8,6 @@ Aqui no meu perfil do GitHub você pode ver todos os meus projetos.
 
 🎓 &nbsp; Formada em Sistemas de Informaçao
 
-🏆 &nbsp; Meus conhecimentos: Html, CSS, JavaScript, React, Node.js e SQL
+🏆 &nbsp; Meus conhecimentos: HTML, CSS, JavaScript e SQL
 
 📚 &nbsp; Estou aprendendo: React Native.
