@@ -10,4 +10,4 @@ Aqui no meu perfil do GitHub você pode ver todos os meus projetos.
 
 🏆 &nbsp; Meus conhecimentos: HTML, CSS, JavaScript, React Native e SQL.
 
-📚 &nbsp; Estou aprendendo: Python, PHP, ASP.
+📚 &nbsp; Estou aprendendo: Python, PHP, Git, Teste Automatizado.
