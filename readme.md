@@ -1,4 +1,4 @@
-## Olá! Eu sou a Stephanie Nascimento 😊
+## Olá! Eu sou a Ste 😊
 
 Apaixonada por tecnologia, esporte, animais, viagens e Harry Potter ⚡
 
@@ -8,6 +8,6 @@ Aqui no meu perfil do GitHub você pode ver todos os meus projetos.
 
 🎓 &nbsp; Formada em Sistemas de Informaçao
 
-🏆 &nbsp; Meus conhecimentos: HTML, CSS, JavaScript, React Native e SQL.
+🏆 &nbsp; Meus conhecimentos: HTML, CSS, JavaScript, TypeScript, React Native, React, Git, Teste unitarios/snapshot e SQL.
 
-📚 &nbsp; Estou aprendendo: Python, Git, Teste Automatizado.
+📚 &nbsp; Estou aprendendo: GraphQL.
