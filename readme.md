@@ -1,13 +1,18 @@
-## Olá! Eu sou a Ste 😊
+# Hi there, I'm Stephanie 👋
 
-Apaixonada por tecnologia, esporte, animais, viagens e Harry Potter ⚡
+I'm in love about technology, sneakers, sport, animals, travel and Harry Potter ⚡
 
-Aqui no meu perfil do GitHub você pode ver todos os meus projetos.
+Here on my GitHub profile you can see all my projects, if you want you can also add me on [LinkedIn](https://www.linkedin.com/in/stephanie-nascimento-71ab51152/)!
 
-💻  &nbsp; Desenvolvedora Front-end Jr.
+</br>
 
-🎓 &nbsp; Formada em Sistemas de Informaçao
+💻  &nbsp; Front-end developer
 
-🏆 &nbsp; Meus conhecimentos: HTML, CSS, JavaScript, TypeScript, React Native, React, Git, Teste unitarios/snapshot e SQL.
+🎓 &nbsp; I graduated in Information Systems
 
-📚 &nbsp; Estou aprendendo: GraphQL.
+🏆 &nbsp; My skills: HTML, CSS, JavaScript, TypeScript, React Native, React, Git, Teste unitarios/snapshot e SQL.
+
+📚 &nbsp; I am learning: GraphQL.
+
+## Top languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
