@@ -10,9 +10,9 @@ Here on my GitHub profile you can see all my projects, if you want you can also 
 
 🎓 &nbsp; I graduated in Information Systems
 
-🏆 &nbsp; My skills: HTML, CSS, JavaScript, TypeScript, React Native, React, Git, Teste unitarios/snapshot, Figma e SQL.
+🏆 &nbsp; My skills: HTML, CSS, JavaScript, TypeScript, React Native, React, Git, Teste unitarios/snapshot, Figma and SQL.
 
-📚 &nbsp; I am learning: GraphQL.
+📚 &nbsp; I am learning: GraphQL, Swift and Kotlin.
 
 ## Top languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
