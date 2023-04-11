@@ -15,4 +15,4 @@ Here on my GitHub profile you can see all my projects, if you want you can also 
 📚 &nbsp; I am learning: GraphQL, Swift and Kotlin.
 
 ## Top languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=steephanie&layout=compact)](https://github.com/steephanie/github-readme-stats)
