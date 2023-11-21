@@ -8,11 +8,9 @@ Here on my GitHub profile you can see all my projects, if you want you can also 
 
 💻  &nbsp; Front-end developer
 
-🎓 &nbsp; I graduated in Information Systems
+🎓 &nbsp; Graduation in Information Systems and MBA - Mobile Development
 
-🏆 &nbsp; My skills: HTML, CSS, JavaScript, TypeScript, React Native, React, Git, Teste unitarios/snapshot, Figma and SQL.
-
-📚 &nbsp; I am learning: GraphQL, Swift and Kotlin.
+🏆 &nbsp; My skills: Swift, React Native, React, JavaScript, TypeScript, GraphQL, Storybook, Git, Teste unitarios/snapshot, Figma, HTML, CSS, and SQL.
 
 ## Top languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=steephanie&layout=compact)](https://github.com/steephanie/github-readme-stats)
