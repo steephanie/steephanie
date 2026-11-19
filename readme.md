@@ -10,7 +10,9 @@ Here on my GitHub profile you can see all my projects, if you want you can also 
 
 🎓 &nbsp; Graduation in Information Systems and MBA - Mobile Development
 
-🏆 &nbsp; My skills: Swift, React Native, React, JavaScript, TypeScript, GraphQL, Storybook, Git, Teste unitarios/snapshot, Figma, HTML, CSS, and SQL.
+🏆 &nbsp; My skills: Stack: React, JavaScript, TypeScript, React Native, HTML5, CSS3, Node.js, APIs REST, GraphQL, SQL, MongoDB, Swift, UIKit e SwiftUI.
+
+💡 &nbsp; Conhecimentos: Arquitetura de Software, Clean Architecture, SOA, Event-Driven Architecture, Monólito Modular, SOLID e Design Patterns.
 
 ## Top languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=steephanie&layout=compact)](https://github.com/steephanie/github-readme-stats)
